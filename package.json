@@ -1,0 +1,23 @@
+{
+  "name": "polyfills",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "jest": "^21.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yohaydy/polyfills.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yohaydy/polyfills/issues"
+  },
+  "homepage": "https://github.com/yohaydy/polyfills#readme"
+}
